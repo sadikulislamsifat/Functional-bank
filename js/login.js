@@ -32,7 +32,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
     // step 4
     if(email == 'sifat@gmail.com' && password == 'sifat'){
         // step 5
-        window.location.href = "index.html";
+        window.location.href = "bank.html";
     }
     else{
         console.log('Invalid info');
